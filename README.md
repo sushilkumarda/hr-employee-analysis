@@ -91,7 +91,7 @@ Dataset Size: 5,000 records | 15 columns
 - Data Storytelling
 
 ## Author
-Sushil Kumar
-Aspiring Data Analyst
-Skills: SQL, Power BI, Python, Excel
+
+Sushil Kumar | Aspiring Data Analyst | Skills: SQL, Power BI, Python, Excel
+
 Note: This particular project focuses on Power BI dashboard design; dataset was sourced pre-cleaned.
